@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416825001299",
+    "project_id": "boucherie-386db",
+    "storage_bucket": "boucherie-386db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416825001299:android:d398d9d5d6713e09c14da6",
+        "android_client_info": {
+          "package_name": "com.example.boucherie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmVT5-T-D8wVwNilefQY_zLpOLng9ZLJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416825001299:android:c0a0f1e7bd40a6fcc14da6",
+        "android_client_info": {
+          "package_name": "om.example.bouche"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmVT5-T-D8wVwNilefQY_zLpOLng9ZLJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
